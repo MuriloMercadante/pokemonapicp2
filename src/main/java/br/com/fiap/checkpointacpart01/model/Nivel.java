@@ -14,4 +14,13 @@ public class Nivel {
     private Long id;
     @Column(name = "nivel_pokemon", nullable = false)
     private Integer nivel;
+
+    @Column(nullable = false)
+    private String nomeTreinador;
+
+    @Column(nullable = false)
+    private Integer estagio;
+
+    @Column(nullable = false)
+    private String ondeEncontrar;
 }

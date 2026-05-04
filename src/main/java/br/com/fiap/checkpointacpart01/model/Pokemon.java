@@ -15,7 +15,12 @@ public class Pokemon {
     @Column(name = "nome_pokemon", length = 24,
             columnDefinition = "char(24)", nullable = false)
     private String nome;
+
+    @Column(nullable = false)
     private String tipo;
 
+    private String tipoSecundario;
 
+    @Column(nullable = false)
+    private String descricao;
 }
