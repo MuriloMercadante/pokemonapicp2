@@ -1,4 +1,4 @@
-Instruções de uso
+# Instruções de uso
 ```bash
 mvn spring-boot:run
 ```
