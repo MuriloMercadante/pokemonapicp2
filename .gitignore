@@ -34,3 +34,6 @@ build/
 
 ### Credenciais locais ###
 .env
+
+### Claude Code ###
+.claude/
