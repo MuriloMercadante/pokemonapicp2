@@ -4,7 +4,7 @@ API REST desenvolvida em **Spring Boot** para cadastro de pokemons e de seus niv
 
 Check Point 1 — *Microservices and Web Engineering* — Prof. Antonio Carlos de Lima Junior.
 
-- Repositorio GitHub: https://github.com/MuriloMercadante/PokemonApiCp2
+- Repositorio GitHub: https://github.com/MuriloMercadante/pokemonapicp2
 - Repositorio Docker Hub: https://hub.docker.com/r/murilomercadante/pokemonapicp2
 
 ---
